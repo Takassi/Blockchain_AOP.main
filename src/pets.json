@@ -1,0 +1,98 @@
+[
+  {
+    "id": 0,
+    "name": "Catuaba",
+    "picture": "images/srd3.jpeg",
+    "age": 5,
+    "breed": "SRD",
+    "location": "Londrina, Parana"
+  },
+  {
+    "id": 1,
+    "name": "Cointreau",
+    "picture": "images/bulldog.jpg",
+    "age": 0.4,
+    "breed": "Bulldog Frances",
+    "location": "Curitiba, Parana"
+  },
+  {
+    "id": 2,
+    "name": "Gin",
+    "picture": "images/boxer.branco.jpg",
+    "age": 2,
+    "breed": "American Bulldog",
+    "location": "Maringa, Parana"
+  },
+  {
+    "id": 3,
+    "name": "Tequila",
+    "picture": "images/boxer.jpeg",
+    "age": 4,
+    "breed": "Boxer",
+    "location": "Sao Jose, Santa Catarina"
+  },
+  {
+    "id": 4,
+    "name": "Bacardi",
+    "picture": "images/srd4.jpeg",
+    "age": 8,
+    "breed": "SRD",
+    "location": "Jundiai - Sao Paulo"
+  },
+  {
+    "id": 9,
+    "name": "Presidente",
+    "picture": "images/srd01.jpg",
+    "age": 3,
+    "breed": "SRD",
+    "location": "Quatigua - Parana"
+  },
+  {
+    "id": 11,
+    "name": "Corote",
+    "picture": "images/srd0.jpg",
+    "age": 3,
+    "breed": "SRD",
+    "location": "Joaquim Tavora - Parana"
+  },
+  {
+    "id": 4,
+    "name": "Alexander",
+    "picture": "images/srd.jpg",
+    "age": 3,
+    "breed": "SRD",
+    "location": "Ourinhos - Parana"
+  },
+  {
+    "id": 8,
+    "name": "Negroni",
+    "picture": "images/pug.jpeg",
+    "age": 1,
+    "breed": "PUG",
+    "location": "Jacarezinho, Parana"
+  },
+  {
+    "id": 9,
+    "name": "Cabare",
+    "picture": "images/filhote.jpg",
+    "age": 0.3,
+    "breed": "Dalmata",
+    "location": "Jundiai - Sao Paulo"
+  },
+  {
+    "id": 10,
+    "name": "Bombay",
+    "picture": "images/french-bulldog.jpeg",
+    "age": 2,
+    "breed": "Bulldog Frances",
+    "location": "Londrina, Parana"
+  },
+  {
+    "id": 11,
+    "name": "Sake",
+    "picture": "images/scottish-terrier.jpeg",
+    "age": 0.4,
+    "breed": "Scottish Terrier",
+    "location": "Curitiba, Parana"
+  }
+]
